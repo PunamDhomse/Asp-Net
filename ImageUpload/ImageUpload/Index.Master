@@ -1,0 +1,55 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Index.master.cs" Inherits="ImageUpload.Index" %>
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css" />
+    <link rel="stylesheet" type="text/css" href="assets/css/master.css" />
+    <link rel="stylesheet" type="text/css" href="assets/css/jquery-ui.css" />
+    <script type="text/javascript" src="assets/js/jquery.min.js"></script>
+    <script type="text/javascript" src="assets/js/jquery-1.11.1.js"></script>
+    <script type="text/javascript" src="assets/js/jquery.validate.js"></script>
+    <script type="text/javascript" src="assets/js/bootstrap.js"> </script>
+    <script type="text/javascript" src="assets/js/jquery-ui.js"></script>
+    <script type="text/javascript" src="assets/js/master.js"></script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <div class="bs-example">
+        <div class="container-fluid">
+            <nav class="navbar navbar-inverse">
+                <div class="container-fluid">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a class="navbar-brand logo" href="#">
+                            <img src="assets/images/images.jfif" alt="IMG-LOGO" /></a>
+                    </div>
+                    <div class="collapse navbar-collapse" id="myNavbar">
+                        <ul class="nav navbar-nav">
+                            <li class="active"><a href="CompanyDetails.aspx">REGISTER</a></li>
+                            <li class="active"><a href="Details.aspx">REGISTERD COMPANY</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </div>
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
+    <!-- footer -->
+    <footer class="main-footer">
+        <div class="container">
+            <div class="copyright">
+                <p>&copy; Copyright 2019 All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

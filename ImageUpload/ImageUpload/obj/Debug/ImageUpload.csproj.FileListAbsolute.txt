@@ -1,0 +1,13 @@
+D:\asp.net\ImageUpload\ImageUpload\bin\ImageUpload.dll.config
+D:\asp.net\ImageUpload\ImageUpload\bin\ImageUpload.dll
+D:\asp.net\ImageUpload\ImageUpload\bin\ImageUpload.pdb
+D:\asp.net\ImageUpload\ImageUpload\obj\Debug\ImageUpload.csprojResolveAssemblyReference.cache
+D:\asp.net\ImageUpload\ImageUpload\obj\Debug\ImageUpload.dll
+D:\asp.net\ImageUpload\ImageUpload\obj\Debug\ImageUpload.pdb
+D:\Punam\asp.net\asp.net\Punam-Dhomse-Test\ImageUpload\ImageUpload\bin\ImageUpload.dll.config
+D:\Punam\asp.net\asp.net\Punam-Dhomse-Test\ImageUpload\ImageUpload\bin\ImageUpload.dll
+D:\Punam\asp.net\asp.net\Punam-Dhomse-Test\ImageUpload\ImageUpload\bin\ImageUpload.pdb
+D:\Punam\asp.net\asp.net\Punam-Dhomse-Test\ImageUpload\ImageUpload\obj\Debug\ImageUpload.csprojAssemblyReference.cache
+D:\Punam\asp.net\asp.net\Punam-Dhomse-Test\ImageUpload\ImageUpload\obj\Debug\ImageUpload.csproj.CoreCompileInputs.cache
+D:\Punam\asp.net\asp.net\Punam-Dhomse-Test\ImageUpload\ImageUpload\obj\Debug\ImageUpload.dll
+D:\Punam\asp.net\asp.net\Punam-Dhomse-Test\ImageUpload\ImageUpload\obj\Debug\ImageUpload.pdb
